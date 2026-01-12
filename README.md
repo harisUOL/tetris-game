@@ -1,2 +1,2 @@
 Tertis game
-This game is about tetris
+This game is about tetris 
